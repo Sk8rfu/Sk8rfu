@@ -23,9 +23,6 @@ Learn more about the origin of my name and explore my projects:
 - Expanding my JavaScript and Node.js knowledge  
 - Building more open‑source tools and utilities  
 
-## 📫 Contact
-(Add Discord, email, or other contact info)
-
 <br>
 
 ## Bulgarian Version
@@ -52,6 +49,3 @@ Learn more about the origin of my name and explore my projects:
 - Backend умения с Java и Maven  
 - Знанията си в JavaScript и Node.js  
 - Създаване на повече open‑source инструменти и проекти  
-
-## 📫 Контакт
-(Добави Discord, email или друго)
