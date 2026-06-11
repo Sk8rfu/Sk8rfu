@@ -1,6 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=180&section=header&text=Sk8rfu&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=180&section=header&text=Sk8rfu&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Sk8rfu;Developer+%7C+Java+%7C+Node.js;Open+Source+Contributor;Linux+Enthusiast)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=00F7FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Sk8rfu;Developer+%7C+Java+%7C+Node.js;HTML+%26+CSS+Developer;Open+Source+Contributor;Linux+Enthusiast" />
+</p>
 
 ---
 
@@ -52,4 +56,9 @@ Learn more about the origin of my name and explore my projects:
 ## 👀 Visitors
 ![Visitors](https://komarev.com/ghpvc/?username=Sk8rfu&color=blue&style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer" />
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=footer&width=100%" 
+    width="100%"
+  />
+</p>
