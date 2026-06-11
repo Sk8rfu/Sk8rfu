@@ -13,6 +13,7 @@ My work spans front‑end and back‑end development, Discord bots, and open‑s
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Discord Bots](https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🌐 Personal Website
 Learn more about the origin of my name and explore my projects:  
@@ -22,6 +23,7 @@ Learn more about the origin of my name and explore my projects:
 - Strengthening my Java backend skills (Maven‑based projects)  
 - Expanding my JavaScript and Node.js knowledge  
 - Building more open‑source tools and utilities  
+- Working with Linux as my main development environment (started with CachyOS in late 2025)
 
 <br>
 
@@ -40,6 +42,7 @@ Learn more about the origin of my name and explore my projects:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Discord Bots](https://img.shields.io/badge/Discord%20Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🌐 Личен сайт
 Научете повече за произхода на името ми и разгледайте моите проекти:  
@@ -49,3 +52,4 @@ Learn more about the origin of my name and explore my projects:
 - Backend умения с Java и Maven  
 - Знанията си в JavaScript и Node.js  
 - Създаване на повече open‑source инструменти и проекти  
+- Работа с Linux като основна среда за разработка (започнах с CachyOS в края на 2025)
