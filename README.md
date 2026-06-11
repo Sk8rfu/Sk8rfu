@@ -38,7 +38,7 @@ Learn more about the origin of my name and explore my projects:
 - Strengthening my Java backend skills (Maven‑based projects)  
 - Expanding my JavaScript and Node.js knowledge  
 - Building more open‑source tools and utilities  
-- Using Linux as my main development environment (since late 2024)
+- Using Linux (CachyOS) as my main development environment since late 2025
 
 ---
 
